@@ -3,17 +3,14 @@
 	width: 595px;
 	height: 842px;	
 }
-
 .bloc1 {
 	width: 250px;
 	height: 832px;
-	left: 7px;
-	top: 5px;
+
 	border-radius: 5px;
 	background: linear-gradient(180deg, #27222F 0%, #2C8598 100%);
 	border: 3px solid #000000;
 }
-
 .bloc2 {
 	width: 328px;
 	height: 832px;
@@ -21,16 +18,12 @@
 	border: 3px solid #000000;
 
 }
-
 .blocname {
 	position: absolute;
 	width: 205px;
 	height: 60px;
 	left: 29px;
 }
-
-
-
 #name {
 	height: 45px;
 	font-family: 'Roboto';
@@ -42,10 +35,7 @@
 
 	color: #FFFFFF;
 }
-
 #titre {
-	left: 77px;
-	top: 74px;
 	padding-right: 15px;
 	font-family: 'Roboto';
 	font-style: normal;
@@ -61,8 +51,6 @@
 	margin-top: 100px;
 	width: 250px;
 	height: 210px;
-	left: 7px;
-	top: 110px;
 }
 .cercle {
 	box-sizing: border-box;
@@ -505,29 +493,21 @@
 .education {
 	width: 286px;
 	height: 227px;
-	left: 277px;
-	top: 274px;
 	margin: 15px;
 }
 .experience {
 	width: 286px;
 	height: 227px;
-	left: 277px;
-	top: 274px;
 	margin: 15px;
 }
 .skills {
 	width: 286px;
 	height: 194px;
-	left: 277px;
-	top: 521px;
 	margin: 15px;
 }
 .hobbies {
 	width: 307px;
 	height: 91px;
-	left: 277px;
-	top: 730px;
 	margin: 15px;
 }
 #educationtitre {
@@ -570,8 +550,6 @@
 	color: #FFFFFF;
 	padding-top: 6px;
 }
-
-
 #skillstitre {
 	width: 130px;
 	height: 30px;
@@ -589,7 +567,6 @@
 	color: #FFFFFF;
 	padding-top: 6px;
 }
-
 #hobbiestitre {
 	width: 130px;
 	height: 30px;
@@ -688,7 +665,7 @@ img {
 	font-size: 20px;
 	margin-top: 20px;
 	align-items: center;
-	margin-bottom: 5px;
+	margin-bottom: 16px;
 }
 .hobbie {
 	display: flex;
